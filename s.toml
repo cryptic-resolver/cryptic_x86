@@ -2,3 +2,10 @@
 name = "SSE"
 desc = "Streaming SIMD Extensions"
 more = "A single instruction, multiple data (SIMD) instruction set extension to the x86 architecture, designed by Intel and introduced in 1999 in their Pentium III series of Central processing units (CPUs) shortly after the appearance of Advanced Micro Devices (AMD's) 3DNow!."
+
+[sgx]
+name = "SGX"
+desc = "Software Guard Extensions"
+more = """A set of security-related instruction codes that are built into some Intel CPUs. They allow user-level and operating system code to define protected private regions of memory, called enclaves. First introduced in 2015 with the sixth generation Intel Core microprocessors based on the Skylake microarchitecture.
+
+  See: https://en.wikipedia.org/wiki/Software_Guard_Extensions"""

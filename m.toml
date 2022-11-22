@@ -1,0 +1,6 @@
+[mmx]
+name = "MMX"
+desc = "Matrix Math eXtension or MultiMedia eXtension"
+more = """A single instruction, multiple data (SIMD) instruction set architecture designed by Intel, introduced on January 8, 1997. 
+
+  See: https://en.wikipedia.org/wiki/MMX_(instruction_set)"""
