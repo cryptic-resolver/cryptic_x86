@@ -5,7 +5,7 @@ more = """A single instruction, multiple data (SIMD) instruction set architectur
 
   See: https://en.wikipedia.org/wiki/MMX_(instruction_set)"""
 
-[mpx.Intel]
-name = "mpx"
+[mpx]
+name = "MPX"
 desc = "Memory Protection Extensions"
 more = "A set of extensions to the x86 instruction set architecture"
