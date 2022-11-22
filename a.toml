@@ -1,0 +1,12 @@
+[avx]
+name = "AVX"
+desc = "Advanced Vector Extensions"
+more = "Intel chips support"
+
+[adc]
+name = "mnemonic: ADC"
+desc = "ADd with Carry"
+
+[adx]
+name = ""
+desc = "Multi-Precision Add-Carry Instruction Extensions"
