@@ -9,3 +9,8 @@ desc = "Software Guard Extensions"
 more = """A set of security-related instruction codes that are built into some Intel CPUs. They allow user-level and operating system code to define protected private regions of memory, called enclaves. First introduced in 2015 with the sixth generation Intel Core microprocessors based on the Skylake microarchitecture.
 
   See: https://en.wikipedia.org/wiki/Software_Guard_Extensions"""
+
+
+[sf]
+name = "SF"
+desc = "Sign Flag or Negative Flag (Bit 7)"
