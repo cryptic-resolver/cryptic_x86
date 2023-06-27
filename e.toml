@@ -1,0 +1,4 @@
+[es]
+name = "ES"
+desc = "Extra Segment register"
+see = ['CS', 'DS', 'SS']
