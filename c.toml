@@ -1,3 +1,8 @@
+[cs]
+name = "CS"
+desc = "Code Segment register"
+see = ['DS', 'SS', 'ES']
+
 [cf]
 name = "CF"
 desc = "Carry Flag (Bit 1)"

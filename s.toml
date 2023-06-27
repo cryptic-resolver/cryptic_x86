@@ -14,3 +14,13 @@ more = """A set of security-related instruction codes that are built into some I
 [sf]
 name = "SF"
 desc = "Sign Flag or Negative Flag (Bit 7)"
+
+[si]
+name = "SI"
+desc = "Source Index"
+see = 'DI'
+
+[ss]
+name = "SS"
+desc = "Stack Segment register"
+see = ['CS', 'DS', 'ES']

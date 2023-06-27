@@ -1,3 +1,8 @@
+[ds]
+name = "DS"
+desc = "Data Segment register"
+see = ['CS', 'SS', 'ES']
+
 [di]
 name = "DI"
 desc = "Destination Index"
