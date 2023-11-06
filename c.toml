@@ -6,3 +6,21 @@ see = ['DS', 'SS', 'ES']
 [cf]
 name = "CF"
 desc = "Carry Flag (Bit 1)"
+
+[cmpb]
+name = "cmpb"
+desc = "Compare Byte"
+more = "A comparison instruction that compares two 8-bit operands and sets the condition flags accordingly"
+see = ['cmpw', 'cmpl']
+
+[cmpw]
+name = "cmpw"
+desc = "Compare Word"
+more = "A comparison instruction that compares two 16-bit operands and sets the condition flags accordingly"
+see = ['cmpb', 'cmpl']
+
+[cmpl]
+name = "cmpl"
+desc = "Compare Longword"
+more = "A comparison instruction that compares two 32-bit operands and sets the condition flags accordingly"
+see = ['cmpb', 'cmpw']

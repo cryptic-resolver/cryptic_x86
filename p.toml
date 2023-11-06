@@ -1,3 +1,7 @@
 [pf]
 name = "PF"
 desc = "Parity flag (Bit 2)"
+
+[popa]
+name = "popa"
+desc = "Pop All general registers"

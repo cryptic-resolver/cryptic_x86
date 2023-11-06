@@ -1,3 +1,11 @@
 [jc]
 name = "jc"
 desc = "Jump if Carry"
+
+[je]
+name = "je"
+desc = "Jump if Equal"
+
+[jg]
+name = "jg"
+desc = "Jump if Greater than"
