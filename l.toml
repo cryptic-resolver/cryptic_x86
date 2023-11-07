@@ -1,0 +1,4 @@
+[lea]
+name = "lea"
+desc = "Load Effective Address"
+more = "Load the effective address of the operand into the destination register. The effective address is the actual memory location that will be accessed when the operand is used"
