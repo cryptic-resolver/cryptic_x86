@@ -24,3 +24,8 @@ name = "cmpl"
 desc = "Compare Longword"
 more = "A comparison instruction that compares two 32-bit operands and sets the condition flags accordingly"
 see = ['cmpb', 'cmpw']
+
+[cld]
+name = "cld"
+desc = "Clear the Direction flag"
+more = "The DF flag controls whether string operations increment or decrement the index registers (SI and/or DI)"
