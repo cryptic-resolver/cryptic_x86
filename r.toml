@@ -1,0 +1,3 @@
+[rdpmc]
+name = "RDPMC"
+desc = "Read Performance-Monitoring Counters"
