@@ -1,3 +1,9 @@
 [gs]
 name = "GS"
 desc = "Global Segment register"
+
+[gdtr]
+name = "GDTR"
+desc = "Global Descriptor Table Register"
+see = 'LGDT'
+more = "The lower 16 bits tell the size of the GDT, and the upper 32 bits tell the location of the GDT in memory"

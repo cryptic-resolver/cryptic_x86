@@ -5,5 +5,10 @@ more = "Load the effective address of the operand into the destination register.
 
 [lidt]
 name = "lidt"
-desc = "Load IDT"
-see = ['IDT']
+desc = "Load the IDTR register"
+see = [ 'IDTR', 'IDT']
+
+[lgdt]
+name = "LGDT"
+desc = "Load the GDTR register"
+see = ['GDTR', 'GDT']
