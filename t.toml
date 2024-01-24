@@ -1,3 +1,7 @@
 [tf]
 name = "TF"
 desc = "Trap Flag (Bit 8)"
+
+[tsc]
+name = "TSC"
+desc = "Time Stamp Counter"
