@@ -2,3 +2,13 @@
 name = "ES"
 desc = "Extra Segment register"
 see = ['CS', 'DS', 'SS']
+
+[esi]
+name = "ESI"
+desc = "Source Index register"
+more = "32-bit general-purpose registers in the x86 architecture, primarily used for string operations and memory addressing"
+
+[edi]
+name = "EDI"
+desc = "Destination index register"
+more = "32-bit general-purpose registers in the x86 architecture, primarily used for string operations and memory addressing"

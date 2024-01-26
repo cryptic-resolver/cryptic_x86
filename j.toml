@@ -9,3 +9,7 @@ desc = "Jump if Equal"
 [jg]
 name = "jg"
 desc = "Jump if Greater than"
+
+[jae]
+name = "jae"
+desc = "Jump if Above or Equal"

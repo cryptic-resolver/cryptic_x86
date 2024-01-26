@@ -29,3 +29,9 @@ see = ['cmpb', 'cmpw']
 name = "cld"
 desc = "Clear the Direction flag"
 more = "The DF flag controls whether string operations increment or decrement the index registers (SI and/or DI)"
+
+[cli]
+name = "cli"
+desc = "Clear the Interrupt flag"
+more = "Clears the 'Interrupt Flag' (IF) bit in the FLAGS register, this tells the CPU to temporarily ignore hardware interrupts"
+see = 'sti'

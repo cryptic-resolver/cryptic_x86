@@ -1,7 +1,7 @@
 [mmx]
 name = "MMX"
 desc = "Matrix Math eXtension or MultiMedia eXtension"
-more = """A single instruction, multiple data (SIMD) instruction set architecture designed by Intel, introduced on January 8, 1997. 
+more = """A single instruction, multiple data (SIMD) instruction set architecture designed by Intel, introduced on January 8, 1997.
 
   See: https://en.wikipedia.org/wiki/MMX_(instruction_set)"""
 
@@ -9,3 +9,8 @@ more = """A single instruction, multiple data (SIMD) instruction set architectur
 name = "MPX"
 desc = "Memory Protection Extensions"
 more = "A set of extensions to the x86 instruction set architecture"
+
+[movl]
+name = "movl"
+desc = "move long"
+more = "Move 32-bit values between registers or between a register and memory"

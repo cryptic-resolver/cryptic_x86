@@ -24,3 +24,9 @@ see = 'DI'
 name = "SS"
 desc = "Stack Segment register"
 see = ['CS', 'DS', 'ES']
+
+[sti]
+name = "sti"
+desc = "Set the Interrupt flag"
+more = "Sets the IF bit in the FLAGS register, this instructs the CPU to start responding to hardware interrupts again"
+see = 'cli'
