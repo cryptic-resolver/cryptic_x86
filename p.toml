@@ -5,3 +5,8 @@ desc = "Parity flag (Bit 2)"
 [popa]
 name = "popa"
 desc = "Pop All general registers"
+
+[pae]
+name = "PAE"
+desc = "Physical Address Extension"
+more = "PAE is a legacy feature that helped bridge the gap between 32-bit memory limitations and the need for more memory in x86 systems. While not widely used in modern systems, it's still a valuable concept to understand in the context of x86 memory management history"
